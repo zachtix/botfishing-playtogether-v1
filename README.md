@@ -1,4 +1,4 @@
-# Packet Requirement
+# Package Requirement
 
 Recomment run in Python Virtual Environment
 
@@ -9,7 +9,7 @@ Recomment run in Python Virtual Environment
 - keyboard 0.13.5
 - pytz 2021.1
 
-# Version 1 [WIP 100%]
+# Version 1
 
 Function
 - โยนเบ็ทเอง[✔]
